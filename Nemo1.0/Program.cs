@@ -6,7 +6,12 @@ namespace Nemo1._0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            Show();
+        }
+        static void Show()
+        {
+            Console.WriteLine("Function Show()");
         }
     }
 }
